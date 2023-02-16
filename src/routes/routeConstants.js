@@ -1,0 +1,18 @@
+export const ROUTE_CONSTANTS = {
+  ANY: "*",
+  ROOT: "/",
+  PRODUCT_CENTER: "product-center",
+  PRODUCT_LIST: "product-list",
+  MUTUAL_FUND_COMPARISON: "mutual-fund-comparison",
+  OFSHORE_FUND_COMPARISON: "ofshore-fund-comparison",
+  INSTITUTIONAL_COMPARISON: "institutional-comparison",
+  COMPOSITE_COMPARISON: "composite-comparison",
+  PERFORMANCE_DAILY_REPORT: "performance-daily-report",
+  PRODUCT_NEWS: "product-news",
+  DAILY_MUTUAL_FUND_FLOW: "daily-mutual-fund-flow",
+  ASSETS_UNDER_MANAGEMENT: "assets-under-management",
+  OVERVIEW: "overview",
+  REPORT_BUILDER: "report-builder",
+  DEFINATIONS: "definations",
+  MANAGED_ACCOUNTS: "managed-accounts",
+};
